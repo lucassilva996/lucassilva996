@@ -5,5 +5,5 @@
 
 -  💻 Trabalhando como Analista de Infraestrutura, migrando para Desenvolvimento.
 -  💡 Conhecimento: Linux | .Net Core | SQL | DevOps | PHP | Java | MySQL
--  :books: Estudando: Java Web (JSP)
+-  :books: Estudando: Java Web (JSP), PHP Laravel, .Net Core.
 
