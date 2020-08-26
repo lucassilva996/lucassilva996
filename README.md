@@ -4,5 +4,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucasdevprojectroyals.ls@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdevprojectroyals.ls@gmail.com)](mailto:lucasdevprojectroyals.ls@gmail.com)
 
 -  💻 Analista de Sistemas Jr.
--  💡 Conhecimento: Linux | .Net Core | SQL | DevOps | PHP | Java | MySQL
+-  💡 Conhecimento: .Net Core | Asp.Net Core | SQL | DevOps | Azure
 -  :books: Estudando: .Net Core, Entity Framework, Web API
