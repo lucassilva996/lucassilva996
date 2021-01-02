@@ -16,6 +16,8 @@
 <img align="center" alt="visual-studio" height="40" width="50" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
 <img align="center" alt="linguagem-csharp" height="40" width="50" src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" style="max-width:100%;">
 <img align="center" alt="dot-net" height="40" width="50" src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-plain-wordmark.svg" style="max-width:100%;">
+ <img align="center" alt="dot-net-core" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/240px-.NET_Core_Logo.svg.png" style="max-width:100%;">
+<p>
 <p>
 
 <hr>
