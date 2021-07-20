@@ -6,7 +6,7 @@
 ## Atualmente
 -  💻 Desenvolvedor Back-End Jr
 -  💡 Conhecimentos: .Net Core | Asp.Net Core | SQL | DevOps | Azure
--  :books: Estudando: Kotlin, .Net Core, Entity Framework, Web API
+-  :books: Estudando: .Net Core, Entity Framework, Web API
 
 ## Minhas competências
 <p>
