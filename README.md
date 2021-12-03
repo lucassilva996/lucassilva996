@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucasdevprojectroyals.ls@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdevprojectroyals.ls@gmail.com)](mailto:lucasdevprojectroyals.ls@gmail.com)
 
 ## Atualmente
--  💻 Analista de Sistemas Pleno at Tokio Marine Seguradora
--  💡 Conhecimentos: .Net Core | Asp.Net Core | SQL | DevOps | Azure
--  :books: Estudando: .Net Core, Entity Framework, Web API
+-  💻 Analista de Sistemas Pleno - Tokio Marine Seguradora
+-  💡 Conhecimentos: .Net | Asp.Net MVC | Web API | Angular | React | SQL Server | DevOps | Azure
+-  :books: Estudando: .Net, Entity Framework, Web API
 
 ## Minhas competências
 <p>
@@ -19,8 +19,3 @@
  <img align="center" alt="dot-net-core" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/240px-.NET_Core_Logo.svg.png" style="max-width:100%;">
 <p>
 <p>
-
-<hr>
-<h1 align="center">
-<img alt="LucasSilva" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucassilva996&show_icons=true&hide_border=true&" />
-</h1>
