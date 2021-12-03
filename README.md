@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucasdevprojectroyals.ls@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdevprojectroyals.ls@gmail.com)](mailto:lucasdevprojectroyals.ls@gmail.com)
 
 ## Atualmente
--  💻 Desenvolvedor Back-End Jr
+-  💻 Analista de Sistemas Pleno at Tokio Marine Seguradora
 -  💡 Conhecimentos: .Net Core | Asp.Net Core | SQL | DevOps | Azure
 -  :books: Estudando: .Net Core, Entity Framework, Web API
 
