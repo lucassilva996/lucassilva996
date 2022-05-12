@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucasdevprojectroyals.ls@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasdevprojectroyals.ls@gmail.com)](mailto:lucasdevprojectroyals.ls@gmail.com)
 
 ## Atualmente
--  💻 Analista de Sistemas Pleno - Tokio Marine Seguradora
+-  💻 Analista de Sistemas Pleno
 -  💡 Conhecimentos: .Net | Asp.Net MVC | Web API | Angular | React | SQL Server | DevOps | Azure
 -  :books: Estudando: .Net, Entity Framework, Web API
 
